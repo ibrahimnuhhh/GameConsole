@@ -1,0 +1,16 @@
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\bin\Debug\net5.0\GameConsole.exe
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\bin\Debug\net5.0\GameConsole.deps.json
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\bin\Debug\net5.0\GameConsole.runtimeconfig.json
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\bin\Debug\net5.0\GameConsole.runtimeconfig.dev.json
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\bin\Debug\net5.0\GameConsole.dll
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\bin\Debug\net5.0\ref\GameConsole.dll
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\bin\Debug\net5.0\GameConsole.pdb
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\obj\Debug\net5.0\GameConsole.csproj.AssemblyReference.cache
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\obj\Debug\net5.0\GameConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\obj\Debug\net5.0\GameConsole.AssemblyInfoInputs.cache
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\obj\Debug\net5.0\GameConsole.AssemblyInfo.cs
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\obj\Debug\net5.0\GameConsole.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\obj\Debug\net5.0\GameConsole.dll
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\obj\Debug\net5.0\ref\GameConsole.dll
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\obj\Debug\net5.0\GameConsole.pdb
+C:\Users\ibrahim.nuh\source\repos\GameConsole\GameConsole\obj\Debug\net5.0\GameConsole.genruntimeconfig.cache
